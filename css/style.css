@@ -1,12 +1,16 @@
+
 main{
+    color: grey;
     max-width:calc(75%);
     float:left;
 }
 aside{
+    color: grey;
     max-width: calc(25%);
     float: left;
     border-left: none;
 }
 footer{
+    color: darkgray;
     clear:both;
 }
